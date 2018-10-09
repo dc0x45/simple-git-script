@@ -8,4 +8,4 @@ like typing out commands.
 # Current version 1.0
 
 This version is the initial script that accepts the working directory by making
- you edit the script itself 
+you edit the script itself. Named 'theOGscript.sh'
