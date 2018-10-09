@@ -27,7 +27,7 @@ read -rsp $'If this is the correct directory, press any key to continue...\n' -n
 printf "\n\n${RED}Git status:${NC} \n"
 git status
 
-git add -u
+git add .
 git reset -- pushdir.sh
 
 git commit -m "updated"
