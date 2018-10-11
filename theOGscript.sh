@@ -36,4 +36,4 @@ git push origin master
 
 printf "\n\nEverything should of worked, so this script will exit in 10 seconds \n"
 
-sleep 10
+#sleep 10
