@@ -1,4 +1,4 @@
-# Yeah, I wrote this.
+# Yeah, I wrote this!
 
 This repo is for a script that adds, commits, and pushes your code.
 
